@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DragonGame", "DragonGame\DragonGame.vcxproj", "{E48626E4-1642-4F86-A864-BB56742D8EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Debug|x64.ActiveCfg = Debug|x64
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Debug|x64.Build.0 = Debug|x64
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Debug|x86.Build.0 = Debug|Win32
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Release|x64.ActiveCfg = Release|x64
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Release|x64.Build.0 = Release|x64
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Release|x86.ActiveCfg = Release|Win32
+		{E48626E4-1642-4F86-A864-BB56742D8EFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1AAD71-35BE-4599-9F5E-C6E3E566D765}
+	EndGlobalSection
+EndGlobal
